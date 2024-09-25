@@ -1,0 +1,21 @@
+/*
+ *Name: John Creekmore
+ *UnityID: jncreekm
+ *Date: 9/20/2024
+ *Assignment: Individual Assignment 4
+ *Description: An assignment for E115
+ */
+ 
+
+ .body{
+    background-color: #74c1e4;
+}
+.table-borders {
+    border: 12px dashed #154053;
+}
+
+#photo-styling {
+    max-width: 200px;
+    max-height: 250px;
+    border: 2px outset green;
+}
